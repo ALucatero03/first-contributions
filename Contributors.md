@@ -6,7 +6,7 @@
 - [Abhinav Shukla](https://github.com/AbsMechanik)
 - [rabindra ku senapati](https://github.com/rp0023)
 - [Shri](https://github.com/skt1598)
-- [suryaraj] (https://github.com/suryaraj95)
+- [suryaraj](https://github.com/suryaraj95)
 - [webbdays](https://github.com/webbdays)
 - [Akash Nagaraj](https://github.com/grassknoted)
 - [Nicholas Menezes](https://github.com/nicholasmenez)
@@ -22,6 +22,7 @@
 - [Renju Jose](https://github.com/renjujv)
 - [netrunner1303](https://github.com/netrunner1303]
 - [Abdul Haq Shah](https://github.com/abdulhaqshah) 
+- [A Lucatero](https://github.com/ALucatero03)
 - [Johan Altamar Rocha](https://github.com/johanaltro)
 - [Santosh Vasisht](https://github.com/santosh50)
 - [Eirik Fladmark](https://github.com/Fladmark) 
